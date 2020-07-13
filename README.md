@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Continously coding](https://i.ibb.co/7nsxzPn/codingdribbble.gif)
+
 <!--
 **theArjun/theArjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
