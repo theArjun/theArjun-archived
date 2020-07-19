@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Adhikari</h1>
 <h3 align="center">A passionate React & Django Developer.</h3>
+
+
 - 🔭 I’m currently working on [kinmel](https://github.com/thearjun/kinmel)
 
 - 👯 I’m looking to collaborate on [Java Notes](https://github.com/theArjun/Java_Notes_With_Codes )
