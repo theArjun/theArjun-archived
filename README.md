@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [Kinmel](https://github.com/thearjun/kinmel) project as part of academic research.
 
-- 👯 I’m looking to collaborate on [Java Notes](https://github.com/theArjun/Java_Notes_With_Codes )
-
 - 📝 I regulary write articles on [https://dev.to/thearjun](https://dev.to/thearjun)
 
 - 💬 Ask me about **react, django**
