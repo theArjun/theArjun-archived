@@ -5,8 +5,7 @@
 - 📝 I regulary write articles on [https://dev.to/thearjun](https://dev.to/thearjun)
 
 
-Weekly Coding Stats
-
+##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Python       11 hrs 47 mins  ████████████▒░░░░░░░░░░░░   49.43 % 
