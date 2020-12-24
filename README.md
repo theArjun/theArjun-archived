@@ -8,10 +8,10 @@
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python     15 hrs 4 mins   █████████████░░░░░░░░░░░░   51.70 % 
-YAML       4 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Markdown   3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-HTML       3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-CSS        1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Python       14 hrs 15 mins  ████████████▓░░░░░░░░░░░░   50.29 % 
+YAML         4 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Markdown     3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+HTML         2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+JavaScript   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 <!--END_SECTION:waka-->
