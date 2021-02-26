@@ -8,8 +8,8 @@
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 48 mins    █████████████████████▒░░░   85.75 % 
-HTML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-PowerShell   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python       1 hr 48 mins    █████████████████████▓░░░   86.11 % 
+HTML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+PowerShell   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 <!--END_SECTION:waka-->
