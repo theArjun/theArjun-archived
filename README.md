@@ -8,7 +8,6 @@
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python   17 mins         ██████████████████▒░░░░░░   73.37 % 
-HTML     6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.63 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
