@@ -8,6 +8,7 @@
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Docker   46 mins         ████████████████████░░░░░   79.49 % 
+C        12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 ```
 <!--END_SECTION:waka-->
