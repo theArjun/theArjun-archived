@@ -8,7 +8,7 @@
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Docker   46 mins         ████████████████████░░░░░   79.49 % 
-C        12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Docker     46 mins         ████████████████████░░░░░   79.46 % 
+C          12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 ```
 <!--END_SECTION:waka-->
