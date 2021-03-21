@@ -8,10 +8,10 @@
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python       11 hrs 23 mins  ████████▓░░░░░░░░░░░░░░░░   34.20 % 
-JSX          8 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.88 % 
-JavaScript   4 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-HTML         3 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Docker       2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Python       12 hrs 40 mins  █████████░░░░░░░░░░░░░░░░   36.08 % 
+JSX          8 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+JavaScript   5 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+HTML         4 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Docker       2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 <!--END_SECTION:waka-->
