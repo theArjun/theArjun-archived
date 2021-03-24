@@ -4,6 +4,8 @@
 
 - 📝 I write articles on [https://dev.to/thearjun](https://dev.to/thearjun)
 
+![Recurring Coding](https://i.ibb.co/Pr59J3x/cn0fspdwpg4a0wmlsnjr.webp)
+
 
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
