@@ -14,10 +14,10 @@ May my country live even if I die.
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python   17 hrs 51 mins  ███████████████▒░░░░░░░░░   60.82 % 
-Dart     3 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-YAML     2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Docker   2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-HTML     1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Python   17 hrs 51 mins  ███████████████░░░░░░░░░░   60.50 % 
+Dart     3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+YAML     2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Docker   2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+HTML     1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 <!--END_SECTION:waka-->
