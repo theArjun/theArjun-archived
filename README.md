@@ -22,3 +22,6 @@ Docker   2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░�
 HTML     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 <!--END_SECTION:waka-->
+
+As you've visited my GitHub profile, I must ensure you leave smiling:
+![Jokes Card](https://readme-jokes.vercel.app/api)
