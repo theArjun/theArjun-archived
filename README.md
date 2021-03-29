@@ -1,4 +1,4 @@
-<h3 align="center">Hello 👋, friends !</h3>
+![My Profile Introduction Image](https://i.ibb.co/tLFZ15Q/gh.png)
 
 - 🔭 I’m currently working on [Kinmel](https://github.com/thearjun/kinmel) project as part of academic research.
 
