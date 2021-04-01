@@ -4,14 +4,6 @@
 
 - 📝 I write articles on [https://dev.to/thearjun](https://dev.to/thearjun)
 
-<!--
-म मरे पनि मेरो देश बाचिरहोस् । 
-May my country live even if I die.
-
-
-![Nepali Flag](https://bestanimations.com/media/flags/1039074932napal-flag-gif.gif)
--->
-
 ##### Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
@@ -22,6 +14,3 @@ JavaScript   1 hr 26 mins    █▒░░░░░░░░░░░░░░░
 Docker       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 <!--END_SECTION:waka-->
-
-As you've visited my GitHub profile, I must ensure you leave smiling:
-![Jokes Card](https://readme-jokes.vercel.app/api)
