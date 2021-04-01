@@ -22,4 +22,4 @@ JavaScript   1 hr 26 mins    █▒░░░░░░░░░░░░░░░
 Docker       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 <!--END_SECTION:waka-->
-<img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+<img src='https://profile-counter.glitch.me/thearjun/count.svg' width='0px'>
