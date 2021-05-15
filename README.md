@@ -8,10 +8,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Django Models Anti Patterns](https://dev.to/thearjun/django-models-anti-patterns-1ma1)
 - [Implement Autocomplete in Django](https://dev.to/thearjun/implement-autocomplete-in-django-3h20)
 - [Integrate Django Jazzmin theme to Django Admin | AdminLTE Dashboard](https://dev.to/thearjun/integrate-django-jazzmin-theme-to-django-admin-adminlte-dashboard-5aao)
 - [Download required folder only from GitHub with Subversion](https://dev.to/thearjun/download-required-folder-only-from-github-with-subversion-2gpc)
-- [Create Django App and Migrations](https://dev.to/thearjun/create-django-app-and-migrations-1km8)
 <!-- BLOG-POST-LIST:END -->
 
 -------
