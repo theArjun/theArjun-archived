@@ -19,7 +19,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <img src='https://profile-counter.glitch.me/thearjun/count.svg' width='0px'>
