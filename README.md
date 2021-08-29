@@ -19,7 +19,10 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML         41 mins         ███████████████▓░░░░░░░░░   62.67 % 
+CSS          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JavaScript   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Other        6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 ```
 <!--END_SECTION:waka-->
 <img src='https://profile-counter.glitch.me/thearjun/count.svg' width='0px'>
