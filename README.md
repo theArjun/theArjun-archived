@@ -19,7 +19,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python   14 mins         ████████████████████████░   96.51 % 
+Other    1 hr 16 mins    ███████████████████████▒░   93.98 % 
+Python   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
 <img src='https://profile-counter.glitch.me/thearjun/count.svg' width='0px'>
