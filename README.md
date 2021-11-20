@@ -1,7 +1,4 @@
 ![My Profile Introduction Image](https://i.ibb.co/tLFZ15Q/gh.png)
-
-- 🔭 I’m currently working on [Kinmel](https://github.com/thearjun/kinmel) project as part of academic research.
-
 - 📝 I write articles on [https://dev.to/thearjun](https://dev.to/thearjun)
 
 -------
