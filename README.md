@@ -16,7 +16,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-HTML     13 mins         █████████████████████████   99.35 % 
+
 ```
 <!--END_SECTION:waka-->
 <img src='https://profile-counter.glitch.me/thearjun/count.svg' width='0px'>
