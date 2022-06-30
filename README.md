@@ -1,3 +1,5 @@
+I’m a software engineer and a writer.
+
 -------
 
 📕 **Latest Blog Posts**
