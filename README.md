@@ -1,6 +1,3 @@
-<!-- ![My Profile Introduction Image](https://i.ibb.co/tLFZ15Q/gh.png) -->
-- 📝 I write articles on [https://dev.to/thearjun](https://dev.to/thearjun)
-
 -------
 
 📕 **Latest Blog Posts**
