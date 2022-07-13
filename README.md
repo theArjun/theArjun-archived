@@ -1,5 +1,7 @@
 I’m a software engineer and a writer.
 
+![Dino Game](./assets/dino.gif)
+
 <!-- ------- -->
 
 <!-- 📕 **Latest Blog Posts** -->
