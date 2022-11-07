@@ -1,17 +1,1 @@
-I’m a software engineer and a writer.
-
-![Dino Game](./assets/dino.gif)
-
-<!-- ------- -->
-
-<!-- 📕 **Latest Blog Posts** -->
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ------- -->
-
-<!-- 📊 **Weekly development breakdown** -->
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+theArjun's+Profile)](https://git.io/typing-svg)
